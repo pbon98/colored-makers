@@ -1,2 +1,2 @@
 # colored-makers
-I completed this on free code camp. 
+I completed this on free code camp.
